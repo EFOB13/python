@@ -2,6 +2,6 @@
 
 Repositório com imagens aplicadas o filtro do módulo cv2.
 
-![rakan god](raknazera.jpg)
+![rakan god](rakanzera.jpg)
 
 ![rakan blur](rakan_result.jpg)
