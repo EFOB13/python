@@ -1,6 +1,6 @@
 # python
 
-Repositório com imagens aplicadas o filtro do módulo cv2.
+Repositório com imagens aplicadas o filtro "blur" do módulo cv2.
 
 ![rakan god](rakanzera.jpg)
 
